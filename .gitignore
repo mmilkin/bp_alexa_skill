@@ -1,0 +1,17 @@
+.idea/*
+*.pyc
+six.py
+six-*
+ez_setup*
+distribute_setup.py
+certifi*/*
+chardet*/*
+idna-2.6.dist-info/
+idna/*
+pytz*/*
+requests*/*
+urllib3*/*
+ve/*
+.cache/*
+*/__pycache__/*
+skill/ids.py
